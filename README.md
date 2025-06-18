@@ -63,8 +63,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=souradipta3&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
