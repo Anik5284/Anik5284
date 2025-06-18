@@ -54,10 +54,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anik5284&theme=radical" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anik5284&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
